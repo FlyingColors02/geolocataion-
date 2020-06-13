@@ -1,0 +1,17 @@
+.summer {
+    width: 700px;
+    height : 400px;
+    background-image: url("./images/bg13.jpg");
+}
+
+.monsoon {
+    width: 700px;
+    height : 460px;
+    background-image: url("./images/bg18.jpg");
+}
+
+.winter {
+    width: 700px;
+    height : 400px;
+    background-image: url("./images/bg17.jpg");
+}
